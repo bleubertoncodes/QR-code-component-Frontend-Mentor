@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://bleubertoncodes.github.io/QR-code-component-Frontend-Mentor/)
-- Live Site URL: [Live Site](https://bleubertoncodes.github.io/Frontend-Mentor-QR-code-component/)
+- Live Site URL: [Live Site]( https://bleubertoncodes.github.io/QR-code-component-Frontend-Mentor/)
 
 
 ## My process
